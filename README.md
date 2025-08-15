@@ -9,9 +9,9 @@ This is my first GitHub repository for learning basic operations.
 
 ## Learnig Check list
 - [x] Create repository
-- [ ] Edit files
+- [x] Edit files
 - [ ] Branch operations
-- [ ] Create commits
+- [x] Create commits
 
 ## Daily Learning Log
 - Completed GitHub account ssetup
